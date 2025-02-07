@@ -1,16 +1,25 @@
-# go_fidelidade
+# Go Fidelidade
 
-A new Flutter project.
+<img src="screenshot/screenshot.jpeg" width="300"/>
 
-## Getting Started
+Este projeto foi desenvolvido como parte de um processo seletivo para a posição Desenvolvedor Flutter para a Guia de Motéis. O aplicativo foi construído utilizando Flutter, aproveitando a nova arquitetura recomendada pela equipe Flutter para garantir melhor escalabilidade e manutenção do código. A arquitetura emprega o uso de `AutoInjector`, `GORouter`, e foi projetado para oferecer uma experiência interativa e funcional aos usuários.
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**: Framework para desenvolvimento de aplicativos móveis.
+- **AutoInjector**: Biblioteca para injeção de dependências, facilitando a gestão de objetos no aplicativo.
+- **GORouter**: Biblioteca para navegação, que melhora a estrutura de rotas no aplicativo.
+- **Arquitetura Moderna Flutter**: Utilização de boas práticas recomendadas para garantir a escalabilidade e a separação de responsabilidades.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Funcionalidades
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Navegação eficiente e simplificada com **GORouter**.
+- Injeção de dependências utilizando **AutoInjector**.
+- Interface interativa com componentes nativos do Flutter, proporcionando uma experiência fluída e prática.
+- Fluxos de navegação otimizados para uma experiência de usuário intuitiva.
+
+## Imagem do Aplicativo
+
+![Imagem do App](screenshot/screenshot.jpeg)
+
+*Substitua o caminho da imagem acima para a localização da imagem do seu app.*
