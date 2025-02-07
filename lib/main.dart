@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       routerDelegate: Routes.router.routerDelegate,
       routeInformationParser: Routes.router.routeInformationParser,
       routeInformationProvider: Routes.router.routeInformationProvider,
-      title: 'Guia dos Motéis',
+      title: 'Go Fidelidade',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
